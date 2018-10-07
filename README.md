@@ -1,2 +1,5 @@
 # hello-world
-This is my first (official) repository. Awe.
+
+I'm only writing this because I'm following a tutorial that told me to do this. So, hi.
+Can I leave now?
+Bye.
